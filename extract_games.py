@@ -96,6 +96,6 @@ if __name__=="__main__":
     GEOGUESSR_GAME_URL = f"https://www.geoguessr.com/api/v3/games"  # Base URL for all endpoints
     #GEOGUESSR_CHALLENGE_URL = f"https://www.geoguessr.com/api/v3/challenges"  # Base URL for all endpoints
 
-    NCFA_TOKEN = "r6L3DOuKMfQj1n86zMpGrS%2Fu%2BF7w7b0pIPZM9jhFqVo%3DuhvscqJQ6UTGUUq%2BdLiX%2F244woyd2aIWMT%2FpD%2FyonzPyfbDZkfV%2BlOOoI5gCIKC%2BK8AU1d81sGpqavj7JptGWKzjJ%2FqcqwIYXuX9WjViENQ%3D"  # Insert your _ncfa token here
+    NCFA_TOKEN = ""
 
     main()
